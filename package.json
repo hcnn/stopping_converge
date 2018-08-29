@@ -1,0 +1,9 @@
+{
+  "name": "stopping_converge",
+  "version": "0.1.0",
+  "repo": "hcnn/stopping_converge",
+  "description": "Check if the optimization algorithm converges, converge at a certain amount, or the target function does not worsen to a certain degree",
+  "keywords": ["stopping criteria", "termination criteria", "gradient descent", "numerical optimization", "local minimum escape"],
+  "license": "MIT",
+  "src": ["stopping_converge.c", "stopping_converge.h"]
+}
