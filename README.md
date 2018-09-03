@@ -28,5 +28,5 @@ cd stopping_converge
 make
 ```
 
-### Links
-* http://hcnn.de/docs/stopping_converge
+### Explanations
+Further explanations in [README.ipynb](README.ipynb)
